@@ -43,6 +43,10 @@ h2 {
   max-width: 420px;
   padding-left: 25px;
 }
+.left .profile-p p {
+  text-indent: -10px;
+  margin-bottom: 1rem;
+}
 .left dl {
   border-left: 2px solid #696969;
 }

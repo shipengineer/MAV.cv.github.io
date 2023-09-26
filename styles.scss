@@ -49,6 +49,10 @@ h2 {
   min-width: 320px;
   max-width: 420px;
   padding-left: 25px;
+  & .profile-p p {
+    text-indent: -10px;
+    margin-bottom: 1rem;
+  }
   & dl {
     border-left: 2px solid $primary;
   }
