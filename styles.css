@@ -162,7 +162,7 @@ h2 {
   align-items: center;
 }
 
-@media (width <= 425px) {
+@media (width <= 426px) {
   body {
     flex-wrap: wrap;
     width: 100vw;
